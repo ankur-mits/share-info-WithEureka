@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.rsystems.shareinformation.ShareInformationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.289 s <<< FAILURE! - in com.rsystems.shareinformation.ShareInformationApplicationTests
+contextLoads(com.rsystems.shareinformation.ShareInformationApplicationTests)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
